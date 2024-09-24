@@ -6,7 +6,6 @@ https://discord.gg/hemixyz
 # HEMI
 ![image](https://github.com/user-attachments/assets/c8b01d22-9fed-4fb5-beaa-5076a3e621e5)
 
-### Discord : https://discord.gg/hemixyz
 
 ### Gereksinimler:
 -------------------
