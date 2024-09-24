@@ -17,6 +17,7 @@ https://discord.gg/hemixyz
 ### Sunucumuzu güncelliyoruz
 ```
 sudo apt upgrade -y && sudo apt update -y
+```
 sudo apt install git make
 ```
 ###  Kurulumuzu yapıyoruz
