@@ -18,6 +18,7 @@ https://discord.gg/hemixyz
 ```
 sudo apt upgrade -y && sudo apt update -y
 '''
+
 '''
 sudo apt install git make
 ```
