@@ -15,9 +15,9 @@ https://discord.gg/hemixyz
 
 
 ### Go versiyonlarını indirelim 
-'''
+```
 apt install golang-go -y && apt install gccgo-go -y
-'''
+```
 
 ### Sunucumuzu güncelliyoruz
 ```
