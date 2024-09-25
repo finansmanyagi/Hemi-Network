@@ -29,7 +29,7 @@ wget https://go.dev/dl/go1.23.1.linux-amd64.tar.gz -O go.tar.gz
 ```
 
 ```
-sudo tar -xzvf go.tar.gz - root/usr/local
+sudo tar -xzvf go.tar.gz 
 ```
 
 ```
