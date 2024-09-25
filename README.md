@@ -14,11 +14,6 @@ https://discord.gg/hemixyz
 ### CPU : 2 Core
 
 
-### Go versiyonlarını indirelim 
-```
-apt install golang-go -y && apt install gccgo-go -y
-```
-
 ### Sunucumuzu güncelliyoruz
 ```
 sudo apt upgrade -y && sudo apt update -y
