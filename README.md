@@ -33,6 +33,7 @@ cd
 git clone https://github.com/hemilabs/heminetwork.git
 cd heminetwork
 make deps
+wget https://go.dev/dl/go1.23.1.linux-amd64.tar.gz -O go.tar.gz
 make install
 ```
 ### Cüzdan oluşturalım
