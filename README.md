@@ -26,6 +26,7 @@ cd
 git clone https://github.com/hemilabs/heminetwork.git
 cd heminetwork
 apt install golang-go
+apt install gccgo-go
 make deps
 make install
 ```
