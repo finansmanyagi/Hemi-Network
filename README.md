@@ -25,6 +25,7 @@ sudo apt install git make
 cd
 git clone https://github.com/hemilabs/heminetwork.git
 cd heminetwork
+apt install golang-go
 make deps
 make install
 ```
