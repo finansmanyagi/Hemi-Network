@@ -24,7 +24,8 @@ apt install golang-go -y && apt install gccgo-go -y
 sudo apt upgrade -y && sudo apt update -y
 ```
 ```
-sudo apt install git make
+sudo apt install git make -y && sudo apt install make-guile -y
+
 ```
 ###  Kurulumuzu yapıyoruz
 ```
