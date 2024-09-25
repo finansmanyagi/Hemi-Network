@@ -18,17 +18,38 @@ https://discord.gg/hemixyz
 ```
 sudo apt upgrade -y && sudo apt update -y
 ```
+### Make indirelim
 ```
 sudo apt install git make -y && sudo apt install make-guile -y
+```
+
+### Go güncel versiyonu indirelim
+```
+wget https://go.dev/dl/go1.23.1.linux-amd64.tar.gz -O go.tar.gz
+```
 
 ```
+sudo tar -xzvf go.tar.gz - root/usr/local
+```
+
+```
+echo export PATH=$HOME/go/bin:/usr/local/go/bin:$PATH >> ~/.profile
+```
+
+```
+source ~/.profile
+```
+
+```
+go version
+```
+
 ###  Kurulumuzu yapıyoruz
 ```
 cd
 git clone https://github.com/hemilabs/heminetwork.git
 cd heminetwork
 make deps
-wget https://go.dev/dl/go1.23.1.linux-amd64.tar.gz -O go.tar.gz
 make install
 ```
 ### Cüzdan oluşturalım
