@@ -20,7 +20,7 @@ sudo apt upgrade -y && sudo apt update -y
 ```
 ### Make indirelim
 ```
-sudo apt install git make -y && sudo apt install make-guile -y
+sudo apt install git make -y
 ```
 
 ### Go güncel versiyonu indirelim
