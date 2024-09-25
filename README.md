@@ -13,6 +13,12 @@ https://discord.gg/hemixyz
 ### Storage : 50 GB
 ### CPU : 2 Core
 
+
+### Go versiyonlarını indirelim 
+'''
+apt install golang-go -y && apt install gccgo-go -y
+'''
+
 ### Sunucumuzu güncelliyoruz
 ```
 sudo apt upgrade -y && sudo apt update -y
@@ -25,8 +31,6 @@ sudo apt install git make
 cd
 git clone https://github.com/hemilabs/heminetwork.git
 cd heminetwork
-apt install golang-go
-apt install gccgo-go
 make deps
 make install
 ```
