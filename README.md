@@ -22,6 +22,10 @@ sudo apt upgrade -y && sudo apt update -y
 ```
 sudo apt install git make -y
 ```
+Videoda burayı atlamışım,indirme komutundan sonra aşağıdaki komutu yazınız.
+```
+ls /usr/bin/make
+```
 
 ### Go güncel versiyonu indirelim
 ```
