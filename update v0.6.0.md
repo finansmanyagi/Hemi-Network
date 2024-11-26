@@ -32,7 +32,7 @@ cd heminetwork_v0.6.0_linux_amd64
 ```
 ### Bilgilerimizi Ayarlayalım:
 * private_key kısmında node etkinliği için olan cüzdan keyinizi yazın.
-*Fee'yi biz 1000 ayarlardık - dilerseniz istediğiniz miktarla değiştirebilirsiniz.
+* Fee'yi biz 1000 ayarlardık - dilerseniz istediğiniz miktarla değiştirebilirsiniz.
 ```
 export POPM_BTC_PRIVKEY=private_key
 export POPM_STATIC_FEE=1000
