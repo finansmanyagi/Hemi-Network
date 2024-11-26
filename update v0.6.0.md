@@ -22,7 +22,6 @@ curl -L -O https://github.com/hemilabs/heminetwork/releases/download/v0.6.0/hemi
 ```
 tar xvf heminetwork_v0.6.0_linux_amd64.tar.gz
 ```
-```
 cd heminetwork_v0.6.0_linux_amd64
 ```
 ### Doğru Yüklendiğinden Emin Olmak İçin Help Komutunu Deniyelim :
