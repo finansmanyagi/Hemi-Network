@@ -13,6 +13,10 @@ https://discord.gg/hemixyz
 ```
 sudo apt upgrade -y && sudo apt update -y
 ```
+## Screen açalım
+```
+screen -S hemi 
+```
 ## Güncellemeleri İndirelim: 
 ```
 cd
